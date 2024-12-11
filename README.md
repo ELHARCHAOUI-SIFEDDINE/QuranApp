@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [elharchaouisifeddine@gmail.com]
+elharchaouisifeddine@gmail.com
 
 Project Link: [https://github.com/ELHARCHAOUI-SIFEDDINE/QuranApp.git](https://github.com/ELHARCHAOUI-SIFEDDINE/QuranApp.git)
 
